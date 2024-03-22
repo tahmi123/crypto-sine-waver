@@ -22,3 +22,4 @@ sine(price)
 [LICENSE]
 
 
+# crypto-sine-waver
