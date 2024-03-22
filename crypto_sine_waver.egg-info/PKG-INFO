@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: crypto-sine-waver
+Version: 0.0.1
+Summary: A price transform for cryptocurrency
+Author: Tahmi ogosi
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: matplotlib

@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+crypto_sine.egg-info/PKG-INFO
+crypto_sine.egg-info/SOURCES.txt
+crypto_sine.egg-info/dependency_links.txt
+crypto_sine.egg-info/requires.txt
+crypto_sine.egg-info/top_level.txt

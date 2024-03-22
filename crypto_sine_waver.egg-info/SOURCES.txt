@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+crypto_sine_waver.egg-info/PKG-INFO
+crypto_sine_waver.egg-info/SOURCES.txt
+crypto_sine_waver.egg-info/dependency_links.txt
+crypto_sine_waver.egg-info/requires.txt
+crypto_sine_waver.egg-info/top_level.txt
