@@ -1,6 +1,6 @@
 # Crypto-sim
 
-Crypto_sine_waver/crypto-sine_-aver is a Python library for dealing with cryptography(secure encryption and decryption).
+Crypto_sine_waver/crypto-sine-waver is a Python library for dealing with cryptography(secure encryption and decryption).
 
 ## Installation
 
