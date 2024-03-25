@@ -21,5 +21,5 @@ sine(price)
 
 [LICENSE]
 
-
+[URL] https://github.com/diversen/sinewave.git
 # crypto-sine-waver
