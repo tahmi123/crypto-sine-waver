@@ -4,7 +4,7 @@ Crypto_sine_waver is a Python library for dealing with cryptography(secure encry
 
 ## Installation
 
-Use the package manager [pip]pyto install crypto-sine-waver.
+Use the package manager [pip] pyto install crypto-sine-waver.
 
 ```
 pip install crypto-sine-waver
@@ -17,9 +17,6 @@ from crypto_sine_waver import sine
 
 sine(price)
 
-[CODE]
 
-[LICENSE]
-
-[URL]https://github.com/tahmi123/crypto-sine-waver
+See: https://github.com/tahmi123/crypto-sine-waver
 # crypto-sine-waver
