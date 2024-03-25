@@ -1,6 +1,6 @@
 # Crypto-sine-waver
 
-Crypto_sine_waver/crypto-sine-waver is a Python library for dealing with cryptography(secure encryption and decryption).
+Crypto_sine_waver is a Python library for dealing with cryptography(secure encryption and decryption).
 
 ## Installation
 
