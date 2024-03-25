@@ -16,7 +16,7 @@ pip install crypto-sine-waver
 from crypto_sine_waver import sine
 
 sine(price)
-
+```
 
 See: https://github.com/tahmi123/crypto-sine-waver
-# crypto-sine-waver
+crypto-sine-waver
