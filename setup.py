@@ -5,6 +5,8 @@ setuptools.setup(
     version='0.0.1',
     author='Tahmi ogosi',
     packages=setuptools.find_packages(),
+    url="https://github.com/tahmi123/crypto-sine-waver",
+    
     description="A price transform for cryptocurrency",
     classifiers=[
         "Programming Language :: Python :: 3",
